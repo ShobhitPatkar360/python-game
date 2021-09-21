@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "....Write Something ....."
+git remote add  github https://github.com/ShobhitPatkar360/Space_War
+git remote -v
+git push -f github main

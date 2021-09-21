@@ -1,0 +1,5 @@
+git init
+git pull https://github.com/ShobhitPatkar360/Space_War.git
+git status
+git add .
+exit
